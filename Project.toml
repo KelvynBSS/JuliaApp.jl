@@ -1,0 +1,4 @@
+name = "JuliaApp"
+uuid = "85aae956-d03b-426a-b568-8a20fb486a84"
+authors = ["Kelvyn Baruc <kelvyn.baruc@gmail.com>"]
+version = "0.1.0"
