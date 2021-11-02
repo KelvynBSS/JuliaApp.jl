@@ -1,7 +1,7 @@
-function JuliaAppGUI()
-    println("Hola1")
+function JuliaAppGUIPrivate()
+    println("It works!!")
 end
 
-function JuliaAppGUI2()
-    println("Hola2")
+function JuliaAppGUI()
+    println(JuliaAppGUIPrivate())
 end
