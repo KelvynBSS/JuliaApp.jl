@@ -1,5 +1,7 @@
 module JuliaApp
 
-greet() = print("Hello World!")
+    export JuliaAppGUI
+
+    include("JuliaAppGUI.jl")
 
 end # module
