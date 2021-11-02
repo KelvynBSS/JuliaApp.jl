@@ -1,3 +1,3 @@
 function NewtonR()
-    printn("Using Newton's method!!!!!")
+    println("Using Newton's method!!!!!")
 end
